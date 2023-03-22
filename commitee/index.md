@@ -5,15 +5,15 @@ title: " "
 
 ## Workshop Chairs:
 
-- Daniel Balouek-Thomert, Inria
-- Manish Parashar, University of Utah
+- Daniel Balouek-Thomert, Inria, France
+- Manish Parashar, University of Utah, USA
 
 
 ## Program Committee (under construction):
-- Ilkay	Altintas, San Diego Supercomputer Center, UCSD, USA
+- Ilkay Altintas, San Diego Supercomputer Center, UCSD, USA
 - Ashiq	Anjum, University of Leicester, UK
-- Nick	Brown, The University of Edinburgh
-- Eddy	Caron, ENS Lyon, France
+- Nick Brown, The University of Edinburgh
+- Eddy Caron, ENS Lyon, France
 - Helene Coullon, IMT Atlantique, Inria, France
 - Nicola Ferrier, Argonne National Laboratory, USA
 - Shadi	Ibrahim, Inria, France

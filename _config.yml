@@ -105,7 +105,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Submissions opens on March 24. 
+    - title: Submission opens on March 24. 
       color: primary
       pages_only: true
   
