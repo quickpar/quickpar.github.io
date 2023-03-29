@@ -23,4 +23,5 @@ title: " "
 - George Pallis, University of Cyprus, Cyprus
 - Ioan Petri, Cardiff University, UK
 - Omer Rana, Cardiff University, UK
+- Patricia Stolf, IRIT, France
 - Massimo Villari, University of Messina, Italia

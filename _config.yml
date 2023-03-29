@@ -104,10 +104,6 @@ conference:
         absolute_url: ''
 
   # Information boxes
-  info_bars:
-    - title: Submission opens on March 24. 
-      color: primary
-      pages_only: true
   
   map:
     # Initial map center point
