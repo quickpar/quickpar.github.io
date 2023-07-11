@@ -10,6 +10,6 @@ All papers must be submitted using the [EasyChair submission system](https://eas
 ### Important dates:
 
 - Paper Deadline (firm): June 3, 2023 AoE
-- Author Notification: June 11, 2023
-- Camera ready papers: July 16, 2023
+- Author Notification: June 7, 2023
+- Camera ready papers: July 14, 2023
 - Workshop (Full Day): August 28 or 29, 2023
