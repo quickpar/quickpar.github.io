@@ -79,7 +79,7 @@ conference:
         relative_url: /commitee/
       #- name: Program
       #  relative_url: /program/
-      - name: Keynote
+      - name: Program
         relative_url: /talks/
       #- name: Location
       #  relative_url: /location/
