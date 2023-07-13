@@ -100,8 +100,7 @@ conference:
       - name: Important dates
         relative_url: /cfp/
       - name: Program
-        disabled: true
-        absolute_url: ''
+        absolute_url: /talks/
 
   # Information boxes
   
