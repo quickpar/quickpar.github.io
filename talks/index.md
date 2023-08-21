@@ -19,16 +19,19 @@ Keynote:  Urgent Computing with AI@Edge</h5>
 data in situ, at the edge, at the highest resolution of data. Data from the edge computation are then transmitted to a cloud computing infrastructure where they can be archived and provided to the community as data products or used in real-time to trigger computational models or dynamically modify subsequent edge computation. This new edge computing programming framework gives scientists a new tool for exploring the impacts of global urbanization, natural disasters such as flooding and wildfires, and climate change on natural ecosystems and city infrastructure. Sage is deploying cyberinfrastructure in environmental test-beds in California, Montana, Colorado, and Kansas, in the National Ecological Observatory Network, and in urban environments in Illinois and Texas. </em> </p>
 <br>
 
- <h5>• 10h00 - 10h30 | Contributed Paper: Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case </h5>
+ <h5>• 10h00 - 10h30 | Contributed Paper
+ <br> Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case </h5>
    <h6> Authors: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic </h6>
 
 <h5>• 10h30 - 11h00 | Break <h5>
 
-<h5>• 11h00 - 11h30 |Contributed Paper: Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
+<h5>• 11h00 - 11h30: Contributed Paper
+<br>Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
 <h6> Authors: Osama Almurshed, Souham Meshoul, Asmail Muftah, Ashish Kumar Kaushal, Osama Almoghamis, Ioan Petri, Nitin Auluck and Omer Rana </h6>
 <br>
 
-<h5>• 11h30 - 12h00 Contributed Paper: Dynamic Adaptation of Urgent Applications in the Cloud-to-Edge Continuum </h5>
+<h5>• 11h30 - 12h00: Contributed Paper
+<br> Dynamic Adaptation of Urgent Applications in the Cloud-to-Edge Continuum </h5>
 <h6> Authors: Daniel Balouek-Thomert and Helene Coullon </h6>
 <br>
 
