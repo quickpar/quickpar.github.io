@@ -23,6 +23,7 @@ data in situ, at the edge, at the highest resolution of data. Data from the edge
 <h4>
 SESSION-II 11:00 – 12:30
 </h4>
+<br>
 
 <h5>• Contributed Paper: Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
 <h6> Authors: Osama Almurshed, Souham Meshoul, Asmail Muftah, Ashish Kumar Kaushal, Osama Almoghamis, Ioan Petri, Nitin Auluck and Omer Rana </h6>
