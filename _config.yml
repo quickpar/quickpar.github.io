@@ -117,13 +117,13 @@ conference:
 
   talks:
     # Talk categories
-    main_categories:
-      - name: Keynote
-        color: info
-      - name: Vision talks
-        color: success
-      - name: Contributed talks
-        color: warning
+    #main_categories:
+    #  - name: Keynote
+    #    color: info
+    #  - name: Vision talks
+    #    color: success
+    #  - name: Contributed talks
+    #    color: warning
 
     # Hide icons on talk overview page
     hide_icons: false
