@@ -18,3 +18,5 @@ title: " "
 - Georges Markomanolis, AMD, France
 - George Pallis, University of Cyprus, Cyprus
 - Patricia Stolf, IRIT, France
+- Christian Sicari, University of Messina, Italia
+- Remous-Aris Koutsiamanis, IMT Atlantique, Inria, France
