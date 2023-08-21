@@ -9,7 +9,6 @@ Monday, August 28, 2023
 <br>
 
 <h5>• 09h00 - 09h10:  Opening</h5>
-<br>
 
 <h5>• 09h10 - 10h00 | Keynote:  Urgent Computing with AI@Edge</h5>
   <h6>Speaker: Pete Beckman, Northwestern University / Argonne National Labs </h6>
@@ -20,12 +19,8 @@ data in situ, at the edge, at the highest resolution of data. Data from the edge
 
  <h5>• 10h00 - 10h30 | Contributed Paper: Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case </h5>
    <h6> Authors: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic </h6>
-<br>
 
-<h4>
-SESSION-II 11:00 – 12:30
-</h4>
-<br>
+<h5>• 10h30 - 11h00 | Break <h5>
 
 <h5>• 11h00 - 11h30 |Contributed Paper: Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
 <h6> Authors: Osama Almurshed, Souham Meshoul, Asmail Muftah, Ashish Kumar Kaushal, Osama Almoghamis, Ioan Petri, Nitin Auluck and Omer Rana </h6>
