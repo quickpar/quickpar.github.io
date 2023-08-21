@@ -21,7 +21,7 @@ Monday, August 28, 2023
    <h6> Authors: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic </h6>
 <br>
 
-<h5>• 10h30 - 11h00 | Break <h5>
+<h5>• 10h30 - 11h00: Coffee Break <h5>
 <br>
 
 <h5>• 11h00 - 11h30: "Performance Optimization for Cross-Domain Intelligent IoT Applications" </h5>
