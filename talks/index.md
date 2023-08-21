@@ -15,9 +15,8 @@ SESSION-I 09:00 – 10:30
 data in situ, at the edge, at the highest resolution of data. Data from the edge computation are then transmitted to a cloud computing infrastructure where they can be archived and provided to the community as data products or used in real-time to trigger computational models or dynamically modify subsequent edge computation. This new edge computing programming framework gives scientists a new tool for exploring the impacts of global urbanization, natural disasters such as flooding and wildfires, and climate change on natural ecosystems and city infrastructure. Sage is deploying cyberinfrastructure in environmental test-beds in California, Montana, Colorado, and Kansas, in the National Ecological Observatory Network, and in urban environments in Illinois and Texas. <p>
 
 
-   • Talk 1: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic 
-
-Title: Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case
+• Title: Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case
+   Authors: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic 
 
 SESSION-II 11:00 – 12:30
 
