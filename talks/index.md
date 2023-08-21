@@ -11,8 +11,8 @@ Monday, August 28, 2023
 <h5>• 09h00 - 09h10:  Opening</h5>
 
 <h5>• 09h10 - 10h00 
-<br>
-Keynote:  Urgent Computing with AI@Edge</h5>
+Keynote:  
+<br>Urgent Computing with AI@Edge</h5>
 <h6>Speaker: Pete Beckman, Northwestern University / Argonne National Labs </h6>
 
  <h5>• 10h00 - 10h30 | Contributed Paper
