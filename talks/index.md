@@ -7,12 +7,6 @@ Monday, August 28, 2023
 
 SESSION-I 09:00 – 10:30
 
-   <h3 class="mt-4 mb-3">
-      <span class="badge border-soft-warning bg-soft-warning d-block d-sm-inline text-wrap">
-        Contributed talks
-      </span>
-    </h3>
-
    • Keynote 1: Pete Beckman, Northwestern University / Argonne National Labs
 
 Title:  Urgent Computing with AI@Edge
