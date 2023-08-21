@@ -3,7 +3,7 @@ layout: talk-overview
 title: Program
 ---
 
-Monday, August 28, 2023
+Monday, August 28, 2023 
 
 SESSION-I 09:00 – 10:30
 
