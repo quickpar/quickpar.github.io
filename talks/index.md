@@ -11,7 +11,7 @@ SESSION-I 09:00 – 10:30 <br>
 <br>
 
 <h5>• Keynote:  Urgent Computing with AI@Edge</h5>
-  <h6>Pete Beckman, Northwestern University / Argonne National Labs </h6>
+  <h6>Speaker: Pete Beckman, Northwestern University / Argonne National Labs </h6>
 
 
 <p> <em> Abstract: From the sensor to the supercomputer, scientific discovery is part of a connected digital continuum that is dynamic and fast. In this new digital continuum, Artificial intelligence (AI) is providing tremendous breakthroughs, making data analysis and automated real-time responses possible across the digital continuum. Sage is a National Science Foundation funded project to build a national cyberinfrastructure for programmable edge computing. This new edge computing programming framework gives scientists a new tool for exploring the impacts of global urbanization, natural disasters such as flooding and wildfires, and climate change on natural ecosystems and city infrastructure. The Sage infrastructure allows scientists to analyze
