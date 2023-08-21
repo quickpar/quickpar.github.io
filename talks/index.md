@@ -23,6 +23,6 @@ SESSION-II 11:00 – 12:30
    <h5>• Contributed Paper: Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
 <h6> Authors: Osama Almurshed, Souham Meshoul, Asmail Muftah, Ashish Kumar Kaushal, Osama Almoghamis, Ioan Petri, Nitin Auluck and Omer Rana </h6>
 
-   • Talk 3: Daniel Balouek-Thomert and Helene Coullon
 
-Title: Dynamic Adaptation of Urgent Applications in the Cloud-to-Edge Continuum
+<h5>• Dynamic Adaptation of Urgent Applications in the Cloud-to-Edge Continuum </h5>
+   <h6> Authors: Daniel Balouek-Thomert and Helene Coullon </h6>
