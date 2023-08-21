@@ -19,7 +19,9 @@ data in situ, at the edge, at the highest resolution of data. Data from the edge
  <h5>• Contributed Paper: Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case </h5>
    <h6> Authors: Sabrina Herbst, Vincenzo De Maio and Ivona Brandic </h6>
 
+<h4>
 SESSION-II 11:00 – 12:30
+</h4>
 
 <h5>• Contributed Paper: Performance Optimization for Cross-Domain Intelligent IoT Applications </h5>
 <h6> Authors: Osama Almurshed, Souham Meshoul, Asmail Muftah, Ashish Kumar Kaushal, Osama Almoghamis, Ioan Petri, Nitin Auluck and Omer Rana </h6>
