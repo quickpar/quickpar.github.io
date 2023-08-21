@@ -97,9 +97,9 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Important dates
+      - name: Call for Papers
         relative_url: /cfp/
-      - name: Program
+      - name: Workshop Program
         absolute_url: /talks/
 
   # Information boxes
