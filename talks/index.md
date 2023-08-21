@@ -20,6 +20,7 @@ From the sensor to the supercomputer, scientific discovery is part of a connecte
 data in situ, at the edge, at the highest resolution of data. Data from the edge computation are then transmitted to a cloud computing infrastructure where they can be archived and provided to the community as data products or used in real-time to trigger computational models or dynamically modify subsequent edge computation. This new edge computing programming framework gives scientists a new tool for exploring the impacts of global urbanization, natural disasters such as flooding and wildfires, and climate change on natural ecosystems and city infrastructure. Sage is deploying cyberinfrastructure in environmental test-beds in California, Montana, Colorado, and Kansas, in the National Ecological Observatory Network, and in urban environments in Illinois and Texas. 
 </p>
 </details>
+<br>
 
  <h5>• 10h00 - 10h30:
 "Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case" </h5>
